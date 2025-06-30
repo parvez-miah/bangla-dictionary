@@ -20,7 +20,7 @@
 | Platform | URL | Status |
 |----------|-----|--------|
 | **🔥 Vercel** | [bangladictionary.vercel.app](https://bangladictionary.vercel.app/) | ✅ Active |
-| **⚡ Netlify** | [bangladictionary.netlify.com](https://bangladictionary.netlify.app/) | ✅ Active |
+| **⚡ Netlify** | [bangladictionary.netlify.app](https://bangladictionary.netlify.app/) | ✅ Active |
 | **📱 Mobile** | Fully Responsive | ✅ Optimized |
 
 ---
