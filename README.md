@@ -1,103 +1,157 @@
-# 🌟 Bangla Dictionary - Modern Bengali Language Learning Platform
+# 🌟 বাংলা অভিধান - Modern Bengali Dictionary
 
-A beautiful, modern, and comprehensive Bengali dictionary web application built with Next.js, TypeScript, and Tailwind CSS. This project aims to preserve and promote the beauty of the Bengali language through an intuitive and feature-rich digital dictionary.
+<div align="center">
 
-![Bangla Dictionary](https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=Bangla+Dictionary)
+![Bangla Dictionary](https://sjc.microlink.io/KlAjf9X9WmOKuU9whElZrskP3sfTEIXxn0cOuyZeY6IU2EBWm_Xl0ZwZkOpcWi-EiDLPgCwO4JqjTiPzyaDrNw.jpeg)
 
-## ✨ Features
+**Discover the beauty of Bengali language with our comprehensive dictionary**
 
-### 🔍 **Smart Search**
-- Real-time search functionality
-- Search in Bengali, English, or phonetic pronunciation
-- Intelligent filtering and suggestions
-- Case-insensitive search across multiple fields
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-blue?style=for-the-badge)](https://bangladictionary.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/parvez-miah/bangla-dictionary.git)
+[![Netlify](https://img.shields.io/badge/Netlify-Deploy-00C7B7?style=for-the-badge&logo=netlify)](https://bangladictionary.vercel.app/)
+[![Vercel](https://img.shields.io/badge/Vercel-Deploy-000000?style=for-the-badge&logo=vercel)](https://bangladictionary.vercel.app/)
+
+</div>
+
+---
+
+## 🚀 **Live Deployments**
+
+| Platform | URL | Status |
+|----------|-----|--------|
+| **🔥 Primary** | [bangladictionary.vercel.app](https://bangladictionary.vercel.app/) | ✅ Active |
+| **⚡ Mirror** | [bangladictionary.vercel.app](https://bangladictionary.vercel.app/) | ✅ Active |
+| **📱 Mobile** | Fully Responsive | ✅ Optimized |
+
+---
+
+## ✨ **Features**
+
+### 🔍 **Smart Search Engine**
+- **Real-time search** across Bengali, English, and phonetic pronunciations
+- **Intelligent filtering** with instant results
+- **Auto-suggestions** for better user experience
+- **Case-insensitive** search across multiple fields
 
 ### 📚 **Comprehensive Word Database**
-- **20+ detailed word entries** with rich metadata
-- Bengali script, English translation, and phonetic pronunciation
-- Detailed definitions with context and usage
-- Etymology and word origins
-- Synonyms and antonyms
-- Part of speech classification
-- Difficulty levels (beginner, intermediate, advanced)
-- Usage frequency indicators
-- Categorization by topics and themes
-- Related words and cross-references
+- **20+ meticulously curated** Bengali words with rich metadata
+- **Authentic Bengali script** using Tiro Bangla font
+- **Detailed definitions** with cultural context
+- **Pronunciation guides** in both Bengali and English
+- **Etymology and word origins** from Sanskrit, Arabic, and Persian
+- **Synonyms and antonyms** for vocabulary building
+- **Part of speech** classification
+- **Difficulty levels**: Beginner, Intermediate, Advanced
+- **Usage frequency** indicators
+- **Categorization** by topics and themes
+- **Related words** and cross-references
 
 ### 🎨 **Modern UI/UX Design**
-- Beautiful gradient backgrounds and glass-morphism effects
-- Responsive design that works on all devices
-- Smooth animations and hover effects
-- Intuitive navigation and user experience
-- Accessibility-first approach with proper ARIA labels
+- **Beautiful gradient backgrounds** with glass-morphism effects
+- **Responsive design** that works flawlessly on all devices
+- **Smooth animations** and hover effects
+- **Intuitive navigation** with breadcrumb support
+- **Accessibility-first** approach with proper ARIA labels
+- **Dark mode ready** architecture
 
 ### 🔗 **SEO Optimized**
-- Individual pages for each word (`/word/[word]`)
-- Static site generation for better performance
-- Proper meta tags and structured data
-- Clean URL structure
-- Optimized for search engines
+- **Individual pages** for each word (`/word/[word]`)
+- **Static site generation** for lightning-fast performance
+- **Rich meta tags** and structured data
+- **Open Graph** and Twitter Card support
+- **Sitemap.xml** and robots.txt
+- **Schema markup** for search engines
 
-### 📱 **Responsive Design**
-- Mobile-first approach
-- Tablet and desktop optimized layouts
-- Touch-friendly interface
-- Fast loading times
+---
 
-## 🚀 Getting Started
+## 🛠️ **Technology Stack**
+
+<div align="center">
+
+| Frontend | Styling | Backend | Deployment |
+|----------|---------|---------|------------|
+| ![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat&logo=next.js) | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css) | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel) |
+| ![React](https://img.shields.io/badge/React_18-20232A?style=flat&logo=react) | ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js) | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify) |
+
+</div>
+
+---
+
+## 🚀 **Quick Start**
 
 ### Prerequisites
-- Node.js 18+ 
-- npm or yarn package manager
+- **Node.js 18+** 
+- **npm** or **yarn** package manager
+- **Git** for version control
 
 ### Installation
 
-1. **Clone the repository**
-   \`\`\`bash
-   git clone https://github.com/yourusername/bangla-dictionary.git
-   cd bangla-dictionary
-   \`\`\`
+\`\`\`bash
+# Clone the repository
+git clone https://github.com/parvez-miah/bangla-dictionary.git
+cd bangla-dictionary
 
-2. **Install dependencies**
-   \`\`\`bash
-   npm install
-   # or
-   yarn install
-   \`\`\`
+# Install dependencies
+npm install
+# or
+yarn install
 
-3. **Run the development server**
-   \`\`\`bash
-   npm run dev
-   # or
-   yarn dev
-   \`\`\`
+# Run development server
+npm run dev
+# or
+yarn dev
 
-4. **Open your browser**
-   Navigate to [http://localhost:3000](http://localhost:3000) to see the application.
+# Open your browser
+# Navigate to http://localhost:3000
+\`\`\`
 
-## 🏗️ Project Structure
+### Build for Production
+
+\`\`\`bash
+# Build the application
+npm run build
+# or
+yarn build
+
+# Start production server
+npm start
+# or
+yarn start
+\`\`\`
+
+---
+
+## 📁 **Project Structure**
 
 \`\`\`
 bangla-dictionary/
-├── app/                    # Next.js 13+ App Router
-│   ├── word/
-│   │   └── [word]/        # Dynamic word pages
-│   ├── globals.css        # Global styles
-│   ├── layout.tsx         # Root layout
-│   └── page.tsx          # Homepage
-├── components/            # Reusable UI components
-│   └── ui/               # shadcn/ui components
-├── lib/                  # Utility functions and data
-│   └── dictionary-data.ts # Word database
-├── public/               # Static assets
-└── README.md
+├── 📁 app/                    # Next.js 14 App Router
+│   ├── 📁 components/         # Reusable React components
+│   ├── 📁 word/
+│   │   └── 📁 [word]/        # Dynamic word pages
+│   ├── 📄 globals.css        # Global styles with Tiro Bangla font
+│   ├── 📄 layout.tsx         # Root layout with SEO
+│   ├── 📄 page.tsx          # Homepage
+│   ├── 📄 sitemap.ts        # SEO sitemap generation
+│   ├── 📄 robots.ts         # Search engine directives
+│   └── 📄 manifest.ts       # PWA manifest
+├── 📁 components/            # shadcn/ui components
+│   └── 📁 ui/               # Button, Card, Input, etc.
+├── 📁 lib/                  # Utility functions and data
+│   └── 📄 dictionary-data.ts # Word database
+├── 📁 public/               # Static assets
+├── 📄 tailwind.config.ts    # Tailwind configuration
+├── 📄 next.config.mjs       # Next.js configuration
+└── 📄 package.json         # Dependencies and scripts
 \`\`\`
 
-## 📖 Usage
+---
+
+## 📖 **Usage Examples**
 
 ### Adding New Words
 
-To add new words to the dictionary, edit the `lib/dictionary-data.ts` file:
+Expand the dictionary by editing `lib/dictionary-data.ts`:
 
 \`\`\`typescript
 {
@@ -120,110 +174,151 @@ To add new words to the dictionary, edit the `lib/dictionary-data.ts` file:
 
 ### Customizing Styles
 
-The project uses Tailwind CSS for styling. You can customize the design by:
+The project uses **Tailwind CSS** with **Tiro Bangla** font:
 
-1. Modifying the `tailwind.config.ts` file
-2. Updating component styles in individual files
-3. Adding custom CSS in `app/globals.css`
+\`\`\`css
+/* Custom Bengali text styling */
+.bangla-text {
+  font-family: var(--font-tiro-bangla), serif;
+  font-weight: 400;
+  font-style: normal;
+}
+\`\`\`
 
-## 🛠️ Built With
+---
 
-- **[Next.js 14](https://nextjs.org/)** - React framework with App Router
-- **[TypeScript](https://www.typescriptlang.org/)** - Type-safe JavaScript
-- **[Tailwind CSS](https://tailwindcss.com/)** - Utility-first CSS framework
-- **[shadcn/ui](https://ui.shadcn.com/)** - Beautiful and accessible UI components
-- **[Lucide React](https://lucide.dev/)** - Beautiful icons
-- **[Vercel](https://vercel.com/)** - Deployment and hosting
+## 🎯 **Roadmap & Future Features**
 
-## 🎯 Roadmap
+- [ ] **🔊 Audio Pronunciations** - Native speaker recordings
+- [ ] **🔍 Advanced Search Filters** - Filter by difficulty, frequency, categories
+- [ ] **👤 User Accounts** - Save favorites and create personal word lists
+- [ ] **🎮 Quiz System** - Interactive vocabulary tests and games
+- [ ] **📱 Mobile App** - React Native mobile application
+- [ ] **🌐 API Integration** - RESTful API for third-party integrations
+- [ ] **📝 Sentence Builder** - More contextual examples and usage patterns
+- [ ] **👥 Community Features** - User-contributed content and corrections
+- [ ] **🌍 Multi-dialect Support** - Regional Bengali variations
+- [ ] **🤖 AI-Powered Suggestions** - Smart word recommendations
 
-- [ ] **Audio Pronunciations** - Add native speaker audio for each word
-- [ ] **Advanced Search Filters** - Filter by difficulty, frequency, categories
-- [ ] **User Accounts** - Save favorite words and create personal word lists
-- [ ] **Quiz System** - Interactive quizzes to test Bengali vocabulary
-- [ ] **Mobile App** - React Native mobile application
-- [ ] **API Integration** - RESTful API for third-party integrations
-- [ ] **Sentence Examples** - More contextual examples and usage patterns
-- [ ] **Community Features** - User-contributed content and corrections
+---
 
-## 🤝 Contributing
+## 🤝 **Contributing**
 
-We welcome contributions from the community! Here's how you can help:
+We welcome contributions from the Bengali language community! 
 
 ### Ways to Contribute
 
-1. **Add New Words** - Expand our dictionary database
-2. **Improve Translations** - Enhance existing definitions and examples
-3. **Fix Bugs** - Report and fix issues
-4. **Enhance UI/UX** - Improve the user interface and experience
-5. **Add Features** - Implement new functionality
-6. **Documentation** - Improve documentation and guides
+| Type | Description | Difficulty |
+|------|-------------|------------|
+| 🆕 **Add Words** | Expand our dictionary database | ⭐ Beginner |
+| 🔧 **Fix Bugs** | Report and fix issues | ⭐⭐ Intermediate |
+| 🎨 **Improve UI** | Enhance user interface | ⭐⭐ Intermediate |
+| ⚡ **Add Features** | Implement new functionality | ⭐⭐⭐ Advanced |
+| 📚 **Documentation** | Improve guides and docs | ⭐ Beginner |
 
-### Contribution Guidelines
+### Contribution Process
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+1. **Fork** the repository
+2. **Create** a feature branch (`git checkout -b feature/amazing-feature`)
+3. **Commit** your changes (`git commit -m 'Add amazing feature'`)
+4. **Push** to the branch (`git push origin feature/amazing-feature`)
+5. **Open** a Pull Request
 
-Please ensure your code follows our coding standards and includes appropriate tests.
+---
 
-## 📄 License
+## 📊 **Project Statistics**
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+<div align="center">
 
-## 🙏 Acknowledgments
+![GitHub stars](https://img.shields.io/github/stars/parvez-miah/bangla-dictionary?style=social)
+![GitHub forks](https://img.shields.io/github/forks/parvez-miah/bangla-dictionary?style=social)
+![GitHub issues](https://img.shields.io/github/issues/parvez-miah/bangla-dictionary)
+![GitHub license](https://img.shields.io/github/license/parvez-miah/bangla-dictionary)
+![GitHub last commit](https://img.shields.io/github/last-commit/parvez-miah/bangla-dictionary)
 
-### Data Sources and Inspiration
+</div>
 
-- **[Bangla Dictionary](https://bangla-dictionary.com/)** - Primary source for linguistic data, word definitions, and cultural context
-- Bengali Language Academy - For standardized spellings and definitions
-- Samsad Bengali-English Dictionary - Reference for translations
-- Bengali literature and classical texts - For authentic usage examples
+---
 
-### Special Thanks
+## 🙏 **Acknowledgments & Credits**
 
-- The Bengali language community for preserving this beautiful language
-- Open source contributors who make projects like this possible
-- [shadcn](https://twitter.com/shadcn) for the amazing UI component library
-- The Next.js team for the excellent framework
+### 🌟 **Primary Data Source**
+- **[Bangla Dictionary](https://bangla-dictionary.com/)** - Our primary source for authentic Bengali linguistic data, word definitions, cultural context, and etymological information. This comprehensive resource has been instrumental in ensuring the accuracy and authenticity of our dictionary content.
 
-## 📞 Support
+### 📚 **Additional Sources**
+- **Bengali Language Academy** - Standardized spellings and definitions
+- **Samsad Bengali-English Dictionary** - Reference for translations
+- **Bengali Literature Corpus** - Authentic usage examples from classical texts
+- **University of Dhaka Linguistics Department** - Academic linguistic research
 
-If you encounter any issues or have questions:
+### 🛠️ **Technical Credits**
+- **[Next.js Team](https://nextjs.org/)** - Amazing React framework
+- **[Vercel](https://vercel.com/)** - Seamless deployment platform
+- **[shadcn](https://twitter.com/shadcn)** - Beautiful UI component library
+- **[Tailwind CSS](https://tailwindcss.com/)** - Utility-first CSS framework
+- **[Google Fonts](https://fonts.google.com/)** - Tiro Bangla font family
 
-1. **GitHub Issues** - [Create an issue](https://github.com/yourusername/bangla-dictionary/issues)
-2. **Discussions** - [Join our discussions](https://github.com/yourusername/bangla-dictionary/discussions)
-3. **Email** - contact@bangla-dictionary.com
+### 🌍 **Community**
+- **Bengali Language Enthusiasts** worldwide
+- **Open Source Contributors** who make projects like this possible
+- **Students and Teachers** who inspire language preservation efforts
 
-## 🌟 Show Your Support
+---
+
+## 📄 **License**
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+\`\`\`
+MIT License - Feel free to use, modify, and distribute
+\`\`\`
+
+---
+
+## 📞 **Support & Contact**
+
+<div align="center">
+
+### 🆘 **Need Help?**
+
+| Platform | Link | Purpose |
+|----------|------|---------|
+| 🐛 **Issues** | [GitHub Issues](https://github.com/parvez-miah/bangla-dictionary/issues) | Bug reports & feature requests |
+| 💬 **Discussions** | [GitHub Discussions](https://github.com/parvez-miah/bangla-dictionary/discussions) | Community chat & questions |
+| 📧 **Email** | [contact@bangladictionary.com](mailto:contact@bangladictionary.com) | Direct support |
+| 🌐 **Website** | [bangladictionary.vercel.app](https://bangladictionary.vercel.app/) | Live application |
+
+</div>
+
+---
+
+## 🌟 **Show Your Support**
 
 If you find this project helpful, please consider:
 
-- ⭐ Starring the repository
-- 🐛 Reporting bugs
-- 💡 Suggesting new features
-- 🤝 Contributing to the codebase
-- 📢 Sharing with others who might benefit
+<div align="center">
+
+⭐ **Star the repository** | 🐛 **Report bugs** | 💡 **Suggest features** | 🤝 **Contribute code** | 📢 **Share with others**
+
+[![GitHub stars](https://img.shields.io/github/stars/parvez-miah/bangla-dictionary?style=social)](https://github.com/parvez-miah/bangla-dictionary)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fparvez-miah%2Fbangla-dictionary)](https://twitter.com/intent/tweet?text=Check%20out%20this%20amazing%20Bengali%20Dictionary!&url=https://bangladictionary.vercel.app/)
+
+</div>
 
 ---
 
-**Made with ❤️ for the Bengali language community**
+<div align="center">
 
-*This project is dedicated to preserving and promoting the beauty of Bengali language and culture through modern technology.*
+### 💝 **Made with Love for the Bengali Language Community**
 
-## 📊 Project Stats
+**বাংলা ভাষার সৌন্দর্য সংরক্ষণ ও প্রচারে আমাদের ক্ষুদ্র প্রয়াস**
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/bangla-dictionary?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/bangla-dictionary?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/bangla-dictionary)
-![GitHub license](https://img.shields.io/github/license/yourusername/bangla-dictionary)
+*Preserving and promoting the beauty of Bengali language through modern technology*
 
 ---
 
-### 🔗 Links
+**© 2024 বাংলা অভিধান - Bengali Dictionary. All rights reserved.**
 
-- **Live Demo**: [https://bangla-dictionary.vercel.app](https://bangla-dictionary.vercel.app)
-- **Documentation**: [https://docs.bangla-dictionary.com](https://docs.bangla-dictionary.com)
-- **API Reference**: [https://api.bangla-dictionary.com](https://api.bangla-dictionary.com)
+*Developed with ❤️ by [Parvez Miah](https://github.com/parvez-miah)*
+
+</div>
