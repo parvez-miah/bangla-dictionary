@@ -8,7 +8,7 @@
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-blue?style=for-the-badge)](https://bangladictionary.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/parvez-miah/bangla-dictionary.git)
-[![Netlify](https://img.shields.io/badge/Netlify-Deploy-00C7B7?style=for-the-badge&logo=netlify)](https://bangladictionary.vercel.app/)
+[![Netlify](https://img.shields.io/badge/Netlify-Deploy-00C7B7?style=for-the-badge&logo=netlify)](https://bangladictionary.netlify.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-Deploy-000000?style=for-the-badge&logo=vercel)](https://bangladictionary.vercel.app/)
 
 </div>
@@ -19,8 +19,8 @@
 
 | Platform | URL | Status |
 |----------|-----|--------|
-| **🔥 Primary** | [bangladictionary.vercel.app](https://bangladictionary.vercel.app/) | ✅ Active |
-| **⚡ Mirror** | [bangladictionary.vercel.app](https://bangladictionary.vercel.app/) | ✅ Active |
+| **🔥 Vercel** | [bangladictionary.vercel.app](https://bangladictionary.vercel.app/) | ✅ Active |
+| **⚡ Netlify** | [bangladictionary.netlify.com](https://bangladictionary.netlify.com/) | ✅ Active |
 | **📱 Mobile** | Fully Responsive | ✅ Optimized |
 
 ---
@@ -133,7 +133,7 @@ bangla-dictionary/
 │   ├── 📄 layout.tsx         # Root layout with SEO
 │   ├── 📄 page.tsx          # Homepage
 │   ├── 📄 sitemap.ts        # SEO sitemap generation
-│   ├── 📄 robots.ts         # Search engine directives
+│   ├── ��� robots.ts         # Search engine directives
 │   └── 📄 manifest.ts       # PWA manifest
 ├── 📁 components/            # shadcn/ui components
 │   └── 📁 ui/               # Button, Card, Input, etc.
@@ -286,7 +286,8 @@ MIT License - Feel free to use, modify, and distribute
 | 🐛 **Issues** | [GitHub Issues](https://github.com/parvez-miah/bangla-dictionary/issues) | Bug reports & feature requests |
 | 💬 **Discussions** | [GitHub Discussions](https://github.com/parvez-miah/bangla-dictionary/discussions) | Community chat & questions |
 | 📧 **Email** | [contact@bangladictionary.com](mailto:contact@bangladictionary.com) | Direct support |
-| 🌐 **Website** | [bangladictionary.vercel.app](https://bangladictionary.vercel.app/) | Live application |
+| 🌐 **Vercel** | [bangladictionary.vercel.app](https://bangladictionary.vercel.app/) | Primary deployment |
+| 🌐 **Netlify** | [bangladictionary.netlify.com](https://bangladictionary.netlify.com/) | Mirror deployment |
 
 </div>
 
@@ -317,7 +318,7 @@ If you find this project helpful, please consider:
 
 ---
 
-**© 2024 বাংলা অভিধান - Bengali Dictionary. All rights reserved.**
+**© 2025 বাংলা অভিধান - Bengali Dictionary. All rights reserved.**
 
 *Developed with ❤️ by [Parvez Miah](https://github.com/parvez-miah)*
 
