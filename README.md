@@ -8,7 +8,7 @@
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-blue?style=for-the-badge)](https://bangladictionary.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/parvez-miah/bangla-dictionary.git)
-[![Netlify](https://img.shields.io/badge/Netlify-Deploy-00C7B7?style=for-the-badge&logo=netlify)](https://bangladictionary.netlify.com/)
+[![Netlify](https://img.shields.io/badge/Netlify-Deploy-00C7B7?style=for-the-badge&logo=netlify)](https://bangladictionary.netlify.app/)
 [![Vercel](https://img.shields.io/badge/Vercel-Deploy-000000?style=for-the-badge&logo=vercel)](https://bangladictionary.vercel.app/)
 
 </div>
@@ -20,7 +20,7 @@
 | Platform | URL | Status |
 |----------|-----|--------|
 | **🔥 Vercel** | [bangladictionary.vercel.app](https://bangladictionary.vercel.app/) | ✅ Active |
-| **⚡ Netlify** | [bangladictionary.netlify.com](https://bangladictionary.netlify.com/) | ✅ Active |
+| **⚡ Netlify** | [bangladictionary.netlify.com](https://bangladictionary.netlify.app/) | ✅ Active |
 | **📱 Mobile** | Fully Responsive | ✅ Optimized |
 
 ---
@@ -285,9 +285,9 @@ MIT License - Feel free to use, modify, and distribute
 |----------|------|---------|
 | 🐛 **Issues** | [GitHub Issues](https://github.com/parvez-miah/bangla-dictionary/issues) | Bug reports & feature requests |
 | 💬 **Discussions** | [GitHub Discussions](https://github.com/parvez-miah/bangla-dictionary/discussions) | Community chat & questions |
-| 📧 **Email** | [contact@bangladictionary.com](mailto:contact@bangladictionary.com) | Direct support |
+| 📧 **Email** | [contact@bangladictionary.com](mailto:bangladictionaryhelp.com) | Direct support |
 | 🌐 **Vercel** | [bangladictionary.vercel.app](https://bangladictionary.vercel.app/) | Primary deployment |
-| 🌐 **Netlify** | [bangladictionary.netlify.com](https://bangladictionary.netlify.com/) | Mirror deployment |
+| 🌐 **Netlify** | [bangladictionary.netlify.com](https://bangladictionary.netlify.app/) | Mirror deployment |
 
 </div>
 
